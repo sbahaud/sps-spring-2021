@@ -4,6 +4,20 @@
   width: 650px;
 }
 
-#greeting-container {
+#movie-container {
+  background-color: lightgoldenrodyellow;
+  border-style: inset;
   margin-top: 20px;
+  padding: 10px;
+  width: 400px
+}
+
+.image-wide {
+  height: 200px;
+  width: 300px;
+}
+
+.image-tall {
+  height: 300px;
+  width: 200px;
 }
