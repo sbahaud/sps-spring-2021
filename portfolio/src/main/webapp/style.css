@@ -12,12 +12,12 @@
   width: 400px
 }
 
-.image-wide {
-  height: 200px;
-  width: 300px;
+.image-thumbnail-container {
+    display: flex;
+    height: 400px;
+    width: 500px;
 }
 
-.image-tall {
-  height: 300px;
-  width: 200px;
+.image-thumbnail {
+  margin: 10px;
 }
